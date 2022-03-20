@@ -15,11 +15,11 @@ C:/Users/Діма/Documents/GitHub/AbdulonGame/ClicerGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57765
+58838
 Successfully changed project path to: C:/Users/Діма/Documents/GitHub/AbdulonGame/ClicerGame
 C:/Users/Діма/Documents/GitHub/AbdulonGame/ClicerGame
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 94.19 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 100.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.22f1/Editor/Data/Resources/UnitySubsystems
@@ -37,73 +37,73 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2020.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007843 seconds.
+Registered in 0.001579 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 99.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 100.17 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.870 seconds
+- Completed reload, in  1.933 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2870ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (1933ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (953ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (988ms)
 			LoadAssemblies (92ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (283ms)
+			SetupTypeCache (284ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (69ms)
-			SetupLoadedEditorAssemblies (360ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (361ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (100ms)
-				BeforeProcessingInitializeOnLoad (18ms)
-				ProcessInitializeOnLoadAttributes (169ms)
-				ProcessInitializeOnLoadMethodAttributes (64ms)
+				BeforeProcessingInitializeOnLoad (21ms)
+				ProcessInitializeOnLoadAttributes (176ms)
+				ProcessInitializeOnLoadMethodAttributes (55ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.021047 seconds.
+Registered in 0.005068 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 105.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 100.30 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.426 seconds
+- Completed reload, in  2.298 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2427ms)
-		BeginReloadAssembly (256ms)
+	ReloadAssembly (2300ms)
+		BeginReloadAssembly (270ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (2061ms)
-			LoadAssemblies (266ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1925ms)
+			LoadAssemblies (158ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (544ms)
+			SetupTypeCache (565ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (117ms)
-			SetupLoadedEditorAssemblies (767ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (777ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (105ms)
-				BeforeProcessingInitializeOnLoad (137ms)
-				ProcessInitializeOnLoadAttributes (472ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
+				RefreshPlugins (100ms)
+				BeforeProcessingInitializeOnLoad (157ms)
+				ProcessInitializeOnLoadAttributes (473ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -111,15 +111,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2211 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 96.4 MB.
-System memory in use after: 96.5 MB.
+Unloading 2212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2647.
-Total: 6.283876 ms (FindLiveObjects: 0.365615 ms CreateObjectMapping: 0.257427 ms MarkObjects: 5.553501 ms  DeleteObjects: 0.105195 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2648.
+Total: 10.591719 ms (FindLiveObjects: 0.428475 ms CreateObjectMapping: 0.268973 ms MarkObjects: 9.788649 ms  DeleteObjects: 0.102629 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -133,56 +133,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/New LightmapParameters.giparams
-  artifactKey: Guid(78d0a4ee340940f4ea3866b49f06bc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/New LightmapParameters.giparams using Guid(78d0a4ee340940f4ea3866b49f06bc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 3.965313 seconds  code(4) message(Build asset version error: assets/scripts/new lightmapparameters.giparams in SourceAssetDB has modification time of '2022-03-20T19:26:35.8905641Z' while content on disk has modification time of '0001-01-01T00:00:00Z' with error code 2
-Stacktrace:
-0x00000001418fcbac (Unity) StackWalker::GetCurrentCallstack
-0x0000000141905249 (Unity) StackWalker::ShowCallstack
-0x0000000142e3319c (Unity) GetStacktrace
-0x00000001430166e7 (Unity) GetAssetHashAndValidate
-0x00000001430118b3 (Unity) AssetVersionBuilder::BuildHashOfSourceAssetArray
-0x000000014300f822 (Unity) AssetVersionBuilder::BuildAssetVersion
-0x0000000142fe9c3d (Unity) CreateAssetVersionBuilder
-0x0000000142ff093d (Unity) ImportToObjects
-0x0000000142fef758 (Unity) ImportAsset
-0x0000000142f51518 (Unity) AssetImportWorker::Import
-0x0000000142fa52fa (Unity) <lambda_bc460064e1fa47f4de661f7cf652321c>::operator()
-0x0000000143048f22 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
-0x000000014304b080 (Unity) asio::detail::win_iocp_io_service::do_one
-0x000000014304e80e (Unity) asio::io_service::run
-0x0000000142fd16bb (Unity) RunAssetImportWorkerClientV2
-0x0000000142fd1710 (Unity) RunAssetImporterV2
-0x000000014248c7b6 (Unity) Application::InitializeProject
-0x0000000142e40702 (Unity) WinMain
-0x0000000144c9f716 (Unity) __scrt_common_main_seh
-0x0000000077ab556d (kernel32) BaseThreadInitThunk
-0x0000000077c1372d (ntdll) RtlUserThreadStart
-)
-  ERROR: Build asset version error: assets/scripts/new lightmapparameters.giparams in SourceAssetDB has modification time of '2022-03-20T19:26:35.8905641Z' while content on disk has modification time of '0001-01-01T00:00:00Z' with error code 2
-Stacktrace:
-0x00000001418fcbac (Unity) StackWalker::GetCurrentCallstack
-0x0000000141905249 (Unity) StackWalker::ShowCallstack
-0x0000000142e3319c (Unity) GetStacktrace
-0x00000001430166e7 (Unity) GetAssetHashAndValidate
-0x00000001430118b3 (Unity) AssetVersionBuilder::BuildHashOfSourceAssetArray
-0x000000014300f822 (Unity) AssetVersionBuilder::BuildAssetVersion
-0x0000000142fe9c3d (Unity) CreateAssetVersionBuilder
-0x0000000142ff093d (Unity) ImportToObjects
-0x0000000142fef758 (Unity) ImportAsset
-0x0000000142f51518 (Unity) AssetImportWorker::Import
-0x0000000142fa52fa (Unity) <lambda_bc460064e1fa47f4de661f7cf652321c>::operator()
-0x0000000143048f22 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
-0x000000014304b080 (Unity) asio::detail::win_iocp_io_service::do_one
-0x000000014304e80e (Unity) asio::io_service::run
-0x0000000142fd16bb (Unity) RunAssetImportWorkerClientV2
-0x0000000142fd1710 (Unity) RunAssetImporterV2
-0x000000014248c7b6 (Unity) Application::InitializeProject
-0x0000000142e40702 (Unity) WinMain
-0x0000000144c9f716 (Unity) __scrt_common_main_seh
-0x0000000077ab556d (kernel32) BaseThreadInitThunk
-0x0000000077c1372d (ntdll) RtlUserThreadStart
+  path: Assets/Save.json
+  artifactKey: Guid(4af24ce92d9ab3c4d9d6c4e1e0bf2971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Save.json using Guid(4af24ce92d9ab3c4d9d6c4e1e0bf2971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f3edebef5a555956e9a184b0b4ae2a') in 0.100425 seconds 
+  Import took 0.106219 seconds .
 
-  Import took 3.970970 seconds .
+========================================================================
+Received Import Request.
+  Time since last request: 18.814090 seconds.
+  path: Assets/SpritesNotMain/Mineria.png
+  artifactKey: Guid(eb8e0be911f679840b07ef85716ec632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesNotMain/Mineria.png using Guid(eb8e0be911f679840b07ef85716ec632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8453518f4b9ca6164fa385285d61dba5') in 0.144498 seconds 
+  Import took 0.150006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/SpritesNotMain/sheet.png
+  artifactKey: Guid(498518a0f9bf34b44b2200bbf42206eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpritesNotMain/sheet.png using Guid(498518a0f9bf34b44b2200bbf42206eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf177fa91916709801b684e74526156a') in 0.045982 seconds 
+  Import took 0.052014 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

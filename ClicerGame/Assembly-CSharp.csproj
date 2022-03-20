@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\MainScript.cs" />
      <Compile Include="Assets\Scripts\BoosterScript.cs" />
      <Compile Include="Assets\Scripts\Effects.cs" />
+     <Compile Include="Assets\Scripts\OfflineIncome.cs" />
      <Compile Include="Assets\Scripts\ShopScript.cs" />
      <Compile Include="Assets\Scripts\EffectsController.cs" />
      <Compile Include="Assets\Scripts\BtnShopScript.cs" />
